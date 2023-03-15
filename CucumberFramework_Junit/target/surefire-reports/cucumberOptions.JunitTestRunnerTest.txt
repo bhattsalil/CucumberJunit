@@ -1,0 +1,7 @@
+-------------------------------------------------------------------------------
+Test set: cucumberOptions.JunitTestRunnerTest
+-------------------------------------------------------------------------------
+Tests run: 3, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 20.54 s <<< FAILURE! - in cucumberOptions.JunitTestRunnerTest
+Search and Place the order for Products.Search Experience for product search in both home and Offers page #2  Time elapsed: 6.366 s  <<< FAILURE!
+org.junit.ComparisonFailure: expected:<[No data]> but was:<[Beetroot]>
+
