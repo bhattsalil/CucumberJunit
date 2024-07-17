@@ -39,7 +39,7 @@
 <dependency>
     <groupId>tech.grasshopper</groupId>
     <artifactId>extentreports-cucumber7-adapter</artifactId>
-    <version>1.10.1</version>
+    <version>1.13.0</version>
 </dependency>
 
 
@@ -63,7 +63,7 @@
 <dependency>
     <groupId>org.seleniumhq.selenium</groupId>
     <artifactId>selenium-java</artifactId>
-    <version>4.8.1</version>
+    <version>4.14.1</version>
 </dependency>
 
 <dependency>
@@ -76,7 +76,7 @@
 <dependency>
     <groupId>io.github.bonigarcia</groupId>
     <artifactId>webdrivermanager</artifactId>
-    <version>5.1.1</version>
+    <version>5.5.0</version>
 </dependency>
 
 <!-- https://mvnrepository.com/artifact/io.cucumber/cucumber-junit -->
